@@ -1,0 +1,12 @@
+author;author_type;url;location;deal_type;accommodation_type;floor;floors_count;rooms_count;total_meters;price;year_of_construction;object_type;house_material_type;heating_type;finish_type;living_meters;kitchen_meters;phone;district;street;house_number;underground;residential_complex
+АЯКС Раменское;real_estate_agent;https://ramenskoye.cian.ru/sale/flat/307860469/;Московская Область;sale;flat;4;9;4;67.0;5999000;-1;-1;-1;-1;-1;55 м²;7 м²;+79660480283;Быково рп; Щорса;9;;
+Владис Дмитров;real_estate_agent;https://dmitrov.cian.ru/sale/flat/303817435/;Московская Область;sale;flat;7;9;4;68.9;6000000;1966;-1;-1;-1;-1;55 м²;6,5 м²;+79660498162;Дмитров; Космонавтов;21;;
+ID 16008845;realtor;https://shatura.cian.ru/sale/flat/304091210/;Московская Область;sale;flat;3;5;4;62.0;6000000;1968;-1;-1;-1;-1;-1;14 м²;+79646230986;Шатура;проспект Ильича;37/2;;
+ID 10629947;unknown;https://dmitrov.cian.ru/sale/flat/302737442/;Московская Область;sale;flat;1;5;4;62.0;6024000;1977;-1;-1;-1;-1;45 м²;6 м²;+79153289308;;;;;
+ID 12890796;realtor;https://serpukhov.cian.ru/sale/flat/308037111/;Московская Область;sale;flat;2;5;4;62.0;6070000;-1;-1;-1;-1;-1;-1;-1;+79660589321;Протвино;проезд Сосновый;3;;
+Этажи Москва;real_estate_agent;https://kubinka.cian.ru/sale/flat/303997580/;Московская Область;sale;flat;2;3;4;94.6;6100000;Напишите автору;-1;-1;-1;-1;63,5 м²;12 м²;+79660639116;Кубинка; Сосновка;10;;
+Сергей Наумов;realtor;https://shchyolkovo.cian.ru/sale/flat/308109865/;Московская Область;sale;flat;5;5;4;61.0;6100000;-1;-1;-1;-1;-1;35 м²;6 м²;+79168794328;мкр. Заречный;Полевая ;6а;;
+ID 87096465;homeowner;https://noginsk.cian.ru/sale/flat/306556396/;Московская Область;sale;flat;5;5;4;60.0;6100000;1969;-1;-1;-1;-1;48 м²;6 м²;+79684763456;Ногинск; Текстилей;21;;
+Владис;real_estate_agent;https://pushkino.cian.ru/sale/flat/308256585/;Московская Область;sale;flat;3;5;4;61.0;6950000;1967;-1;-1;-1;-1;45 м²;5,3 м²;+79660643274;мкр. Центральный;Надсоновская ;20а;;
+Этажи Дмитров;real_estate_agent;https://dmitrov.cian.ru/sale/flat/308678660/;Московская Область;sale;flat;4;9;4;67.3;6990000;1980;-1;-1;-1;-1;50,8 м²;6,5 м²;+79067883129;;;;;
+Татьяна Грибова;realtor;https://solnechnogorsk.cian.ru/sale/flat/244165239/;Московская Область;sale;flat;3;16;-1;80.5;7000000;2008;-1;-1;-1;-1;50,5 м²;9,8 м²;+79628771547;;;;;Андреевский квартал
